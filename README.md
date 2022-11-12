@@ -1,4 +1,4 @@
-This is an R implementation of monte-carlo pricing a timer option under a Heston Model. It follows the algorithm proposed in Bernard and Cui (2011).
+This is an R implementation of monte-carlo pricing of timer option under a Heston Model. It follows the algorithm proposed in Bernard and Cui (2011).
 
 Reference:
 
